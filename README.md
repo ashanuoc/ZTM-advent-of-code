@@ -30,33 +30,6 @@ Here's how to get started:
 4. Check out the solutions board, compare your solution against other community solutions, learn different ways of achieving the goal and vote on your favourite solutions.
 5. Get ready to solve the puzzle for each day of December 🎅
 
-#### Things to note:
-- Submitting solutions on the ZTM Solutions site will earn you extra points on the leaderboard!
-- Even though the event starts on December 1st you can join at anypoint in December and post your solutions.
-- You must always do the challenges in order. You won't be given day 2's puzzle without first completing day 1.
-- Don't forget to complete the challenge without AI help.
-
 <br />
 <br />
 
-## Join the conversation
-Remember that you can take advantage of the #advent-of-code Discord channel, where you can hangout with other ZTM students completing the challenges and support each other, or ask questions.
-
-<br />
-<br />
-
-## Who made this possible?
-
-Some of our fellow ZTM members built this awesome platform to submit and share code. Give them a big thank you on Discord!
-
-```
-@Matt
-@Dichotomyy
-@E
-@notAnkur
-@Brittney
-@Abdus
-@Meet
-```
-
-## Enjoy this challenge and good luck! :)
